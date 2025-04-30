@@ -6,3 +6,4 @@ pip install DVC
 5. now using mkdir s3 (create s3 directory)
 6. now we do "dvc remote add -d myremote S3"
 7. next "dvc add data/"
+8. Again wedo add dvc add.dvc then git add .gitignore data.dvc
