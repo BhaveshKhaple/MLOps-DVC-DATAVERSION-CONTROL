@@ -8,3 +8,8 @@ pip install DVC
 7. next "dvc add data/"
 8. Again wedo add dvc add.dvc then git add .gitignore data.dvc
 9. now "dvc commit" and then "dvc push"
+10. Now maked chnages in mycode.py append the new row in data
+11. Agin -- "dvc commit" and then "dvc push"
+12. then git add-commit push (saving V2)
+13. Check dvc/git status
+14. Now repet save for v3
